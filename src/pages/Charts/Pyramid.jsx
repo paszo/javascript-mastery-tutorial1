@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Piramid = () => {
+const Pyramid = () => {
     return (
         <div>
            Piramid
@@ -8,4 +8,4 @@ const Piramid = () => {
     );
 };
 
-export default Piramid;
+export default Pyramid;
